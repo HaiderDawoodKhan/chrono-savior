@@ -45,7 +45,7 @@ To play the game or test its features:
 - **Keyboard:** 1, 2, 3 or TAB to cycle between weapons.
 
 ### Game Pausing
-- **Keyboard:** Escape key to to pause the game
+- **Keyboard:** Escape key to pause the game
 
 ### Reloading
 - **Keyboard:** R to reload weapon
@@ -57,7 +57,7 @@ To play the game or test its features:
     - Space Travel
     - Ground Combat
   - Campaign Mode
-    - Load New Session (currently only space shooter level added - inprogress)
+    - Load New Session (currently only space shooter level added - in-progress)
     - Load Last Session (feature not added yet)
 - Options
     - Volume
@@ -74,10 +74,3 @@ To play the game or test its features:
 - Resume
 - Options
 - Main Menu
-
-## Contact
-For any questions, reach out to Team 1:
-
-- **Email:** 26100182@lums.edu.pk, 26100053@lums.edu.pk
-- **GitHub:** [maazKashif-999](https://github.com/maazKashif-999)
-
